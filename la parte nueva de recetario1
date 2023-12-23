@@ -1,0 +1,16 @@
+#obtenemos la ruta del recetario creada por el usuario
+def obtener_ruta_recetario():
+        return None
+
+#guardamos el archivo que hemos creado 
+def guardar_ruta_recetario(ruta):
+        file.write(str(ruta_absoluta))
+
+#verificamos si el usuario es nuevo en el sistema o no
+def verificar_usuario(nombre):
+        entrada_sistema(ruta_recetario)
+
+        
+# esta funcion le pide al usuario que cree su porpio directorio o si ya ha ingrersado tener acceso al menu
+def usuario_nuevo ():
+        salir_sistema()
